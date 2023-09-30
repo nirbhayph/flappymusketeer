@@ -1,4 +1,4 @@
-<img src="https →//i.ibb.co/kyGKVC3/Screenshot-2023-09-29-211010.png" width="300" height="300">
+<img src="https://i.ibb.co/kyGKVC3/Screenshot-2023-09-29-211010.png" width="300" height="300">
 
 # Flappy <b>Musk</b>.eteer
 
