@@ -77,7 +77,7 @@ fun GameMenu(navController: NavController) {
                         fontFamily = FontFamily.Monospace
                     )
                 ) {
-                    append("flappy ")
+                    append("Flappy ")
                     withStyle(
                         style = SpanStyle(
                             fontWeight = FontWeight.ExtraBold
