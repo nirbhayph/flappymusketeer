@@ -18,7 +18,9 @@ Fun · Learn · Build · Challenge
 <a href='https://linktree.com/flappymusketeer'><img height="40" width="150" alt='Get it on Google Play' src='https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white'/></a>
 
 #### Play Store Link
-<a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100" width="255" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer'><img height="40" width="150" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+![Play Store]()
 
 ### Features
 * **Tribute to Elon Musk →** Enjoy a game that celebrates the achievements of Elon Musk in the tech and space industries. 
