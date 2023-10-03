@@ -24,7 +24,15 @@ https://linktree.com/flappymusketeer.
 * **Tribute to Elon Musk →** Enjoy a game that celebrates the achievements of Elon Musk in the tech and space industries. 
 * **Tap to Fly →** Control the bird/ship/doge by tapping on the screen to make it flap and navigate through the obstacles.
 * **Multiple Backgrounds →** Immerse yourself in different environments inspired by Elon Musk's ventures, including SpaceX and Twitter(X).
-* **Game Themes →** Choose from a variety of themes/color scheme options - Twitter.Doge, Space.X.Mars, Space.X.Moon, Twitter.White, Twitter.Pink, etc.
+* **Game Themes →** Choose from a variety of themes/color scheme options
+  * Twitter.Doge
+  * Space.X.Mars
+  * Space.X.Moon
+  * Twitter.White
+  * Twitter.Pink
+  * Twitter.Green
+  * Space.X
+  * Twitter
 
 ### Game Mechanics
 Here's how to play →
