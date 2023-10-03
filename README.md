@@ -20,10 +20,6 @@ Fun · Learn · Build · Challenge
 #### Play Store Link
 <a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer'><img height="40" width="150" src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/></a>
 
-
-
-![Play Store]()
-
 ### Features
 * **Tribute to Elon Musk →** Enjoy a game that celebrates the achievements of Elon Musk in the tech and space industries. 
 * **Tap to Fly →** Control the bird/ship/doge by tapping on the screen to make it flap and navigate through the obstacles.
