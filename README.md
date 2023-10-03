@@ -69,7 +69,9 @@ For developers out there, if you wish to contribute to the project, feel free to
 * Firebase → We leverage Firebase for various features in our app, including analytics and crash reporting. Firebase provides robust tools for app development and monitoring. 
 * Coil → Coil is used for image loading in Flappy Musketeer. It's a fast and efficient image loading library for Android. 
 * Lottie → We utilize Lottie for adding delightful animations to our app. Lottie simplifies the process of integrating animations into the user interface.
-* Unsplash → Have utilized Unsplash for different background used in the app. Check the Themes.kt file for images sourced. 
+* Unsplash → Have utilized Unsplash for different background used in the app. Check the Themes.kt file for images sourced.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) [![Unsplash](https://img.shields.io/badge/Social%20Preview-%20brown%20eggs%20on%20white%20tray%20by%20Tengyart-lightgrey?style=flat-square&logo=Unsplash)]()
 
 ### App Screenshots
 <img src="https://i.ibb.co/NNVxhbk/Cover-2.png" width="1024" height="500">
