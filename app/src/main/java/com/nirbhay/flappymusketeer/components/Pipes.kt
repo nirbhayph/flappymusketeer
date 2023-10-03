@@ -225,7 +225,5 @@ internal fun getPipeDimensions(
         return Triple(0.15f, 0.2f, 0.65f)
     }
 
-    Log.d("NirbhayXXYY", "$topPipeWeight :: $gapWeight :: $bottomPipeWeight")
-
     return Triple(topPipeWeight, gapWeight, bottomPipeWeight)
 }

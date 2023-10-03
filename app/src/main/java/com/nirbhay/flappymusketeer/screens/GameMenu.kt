@@ -66,7 +66,7 @@ fun GameMenu(navController: NavController) {
                 Icon(
                     painterResource(id = R.drawable.logo),
                     null,
-                    modifier = Modifier.size(36.dp),
+                    modifier = Modifier.size(48.dp),
                     tint = Color.White
                 )
             }
