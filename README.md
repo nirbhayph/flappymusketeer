@@ -74,5 +74,5 @@ For developers out there, if you wish to contribute to the project, feel free to
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white) 
 
 ### App Screenshots
-<img src="https://i.ibb.co/NNVxhbk/Cover-2.png" width="980" height="450">
-<img src="https://i.ibb.co/fMfqYqC/Cover-1.png" width="980" height="450">
+<img src="https://i.ibb.co/NNVxhbk/Cover-2.png" width="960" height="450">
+<img src="https://i.ibb.co/fMfqYqC/Cover-1.png" width="960" height="450">
