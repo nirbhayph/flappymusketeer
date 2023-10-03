@@ -64,4 +64,5 @@ For developers out there, if you wish to contribute to the project, feel free to
 * Unsplash → Have utilized Unsplash for different background used in the app. Check the Themes.kt file for images sourced. 
 
 ### App Screenshots
-
+<img src="https://i.ibb.co/NNVxhbk/Cover-2.png" width="1024" height="500">
+<img src="https://i.ibb.co/fMfqYqC/Cover-1.png" width="1024" height="500">
