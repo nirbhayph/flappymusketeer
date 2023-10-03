@@ -11,7 +11,7 @@ Can you navigate through them and achieve a high score in honor of Elon Musk's d
 Fun · Learn · Build · Challenge
 
 ### App Preview
-<img src="https://i.ibb.co/g9fN2MQ/Untitled-design-13.png" width="500" height="300">
+<img src="https://i.ibb.co/g9fN2MQ/Untitled-design-13.png" width="1024" height="500">
 
 ### Important URLs
 #### App Home
