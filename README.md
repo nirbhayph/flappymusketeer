@@ -18,7 +18,7 @@ Fun · Learn · Build · Challenge
 https://linktree.com/flappymusketeer.
 
 #### Play Store Link
-<a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100" width="225" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100" width="240" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ### Features
 * Tribute to Elon Musk  → Enjoy a game that celebrates the achievements of Elon Musk in the tech and space industries. 
