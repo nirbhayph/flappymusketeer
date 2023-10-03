@@ -3,15 +3,14 @@
 # Flappy <b>Musk</b>.eteer
 
 ### Introduction
-Flappy Musketeer is an exciting mobile game designed as a tribute to the visionary entrepreneur, Elon Musk. 
-In this game, you take on the role of the bird/ship/doge and guide it through a challenging universe filled with obstacles. 
-Can you navigate through them and achieve a high score in honor of Elon Musk's daring endeavors?
+Flappy **Musk**.eteer is an exciting mobile game designed as a tribute to the visionary entrepreneur, **Elon Musk**. 
+In this game, you take on the role of the **bird/ship/doge** and guide it through a challenging universe filled with obstacles. 
+**Can you navigate through them and achieve a high score in honor of Elon Musk's daring endeavors?**
 
 ### Motivation
 Fun · Learn · Build · Challenge
 
 ### App Preview
-<img src="https://i.ibb.co/g9fN2MQ/Untitled-design-13.png" width="1024" height="500">
 
 ### Important URLs
 #### App Home
@@ -21,21 +20,21 @@ https://linktree.com/flappymusketeer.
 <a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100" width="255" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ### Features
-* Tribute to Elon Musk  → Enjoy a game that celebrates the achievements of Elon Musk in the tech and space industries. 
-* Tap to Fly → Control the bird/ship/doge by tapping on the screen to make it flap and navigate through the obstacles.
-* Multiple Backgrounds → Immerse yourself in different environments inspired by Elon Musk's ventures, including SpaceX and Twitter(X).
-* Game Themes → Choose from a variety of themes/color scheme options - Twitter.Doge, Space.X.Mars, Space.X.Moon, Twitter.White, Twitter.Pink, etc.
+* **Tribute to Elon Musk →** Enjoy a game that celebrates the achievements of Elon Musk in the tech and space industries. 
+* **Tap to Fly →** Control the bird/ship/doge by tapping on the screen to make it flap and navigate through the obstacles.
+* **Multiple Backgrounds →** Immerse yourself in different environments inspired by Elon Musk's ventures, including SpaceX and Twitter(X).
+* **Game Themes →** Choose from a variety of themes/color scheme options - Twitter.Doge, Space.X.Mars, Space.X.Moon, Twitter.White, Twitter.Pink, etc.
 
 ### Game Mechanics
 Here's how to play →
-* Tap the screen to make the bird/ship/doge flap his wings and ascend. 
+* Tap the screen to make the **bird/ship/doge** flap his wings and ascend. 
 * Release the screen to let it descend. 
 * Navigate it through openings between obstacles. 
 * Avoid collisions with obstacles to keep the game going. 
 * Try to achieve the highest score by covering the longest distance.
 
 ### Technical Overview
-The game has been built using Jetpack Compose in Android. 
+The game has been built using **Jetpack Compose** in Android. 
 
 #### Pipes Generation and Movement
 * Pipe Spawning → Pipes are generated at regular intervals to create gaps for the player to navigate. 
@@ -50,7 +49,7 @@ The game has been built using Jetpack Compose in Android.
 These technical components work in tandem to provide an engaging and challenging gaming experience in Flappy Musketeer. For a deeper dive into the code implementation, please refer to the provided source code.
 
 ### Note
-For developers out there, if you wish to contribute to the project, feel free to do so. Create pull requests for new ideas/thoughts or bugs/open issues.
+For developers out there, if you wish to contribute to the project, feel free to do so. Create pull requests for **new ideas/thoughts** or bugs/open issues.
 
 ### Developer
 #### Nirbhay Pherwani
@@ -61,25 +60,7 @@ For developers out there, if you wish to contribute to the project, feel free to
 * Firebase → We leverage Firebase for various features in our app, including analytics and crash reporting. Firebase provides robust tools for app development and monitoring. 
 * Coil → Coil is used for image loading in Flappy Musketeer. It's a fast and efficient image loading library for Android. 
 * Lottie → We utilize Lottie for adding delightful animations to our app. Lottie simplifies the process of integrating animations into the user interface.
-* Unsplash → Have utilized Unsplash for different background used in the app.
-* Unsplash Credits →
-- TWITTER_DOGE("https://source.unsplash.com/qIRJeKdieKA"),
-- SPACE_X("https://source.unsplash.com/ln5drpv_ImI"),
-- SPACE_X_MOON("https://source.unsplash.com/Na0BbqKbfAo"),
-- SPACE_X_MARS("https://source.unsplash.com/-_5dCixJ6FI"),
-- TWITTER("https://source.unsplash.com/vC8wj_Kphak"),
-- TWITTER_WHITE("https://source.unsplash.com/4nqSD0YmbDE"),
-- TWITTER_GREEN("https://source.unsplash.com/MHNjEBeLTgw"),
-- TWITTER_PINK("https://source.unsplash.com/5UCZREYSXDs") 
-
+* Unsplash → Have utilized Unsplash for different background used in the app. Check the Themes.kt file for images sourced. 
 
 ### App Screenshots
-Here are some screenshots from the app →
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
-<a href=""><img src="" align="left" height="540" width="270" alt=""></a>
 
