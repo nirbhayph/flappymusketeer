@@ -68,7 +68,7 @@ For developers out there, if you wish to contribute to the project, feel free to
 * Jetpack Compose → Our app's user interface is built using Jetpack Compose, a modern Android UI toolkit developed by Google. Compose has made it easier to create dynamic and engaging user interfaces. 
 * Firebase → We leverage Firebase for various features in our app, including analytics and crash reporting. Firebase provides robust tools for app development and monitoring. 
 * Coil → Coil is used for image loading in Flappy Musketeer. It's a fast and efficient image loading library for Android. 
-* Lottie → We utilize Lottie for adding delightful animations to our app. Lottie simplifies the process of integrating animations into the user interface.
+* Lottie → We utilize Lottie for adding delightful animations to our app. Lottie simplifies the process of integrating animations into the user interface. <a href="https://lottiefiles.com/animations/twitter-x-animation-epHYK6xKxA">Twitter X Animation</a> by <a href="https://lottiefiles.com/uiuxanimation">Praneeth Kawya Thatsara</a> is used in the app for indicating the game over sequence. 
 * Unsplash → Have utilized Unsplash for different background used in the app. Check the Themes.kt file for images sourced.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white) 
