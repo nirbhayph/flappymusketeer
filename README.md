@@ -11,7 +11,7 @@ In this game, you take on the role of the **bird/ship/doge** and guide it throug
 Fun · Learn · Build · Challenge
 
 ### App Preview
-<img src="https://i.ibb.co/9Vpfr54/Cover.png" width="100%" height="40%">
+<img src="https://i.ibb.co/9Vpfr54/Cover.png" width="100%" height="45%">
 
 ### Important URLs
 #### App Home
