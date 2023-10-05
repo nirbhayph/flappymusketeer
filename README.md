@@ -21,7 +21,7 @@ Fun · Learn · Build · Challenge
 <a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer'><img height="40" width="170" src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/></a>
 
 #### Promo Video
-<a href='https://www.youtube.com/watch?v=433Kd9edueE'><img height="40" width="170" src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white'/></a>
+<a href='https://www.youtube.com/watch?v=433Kd9edueE'><img height="40" width="155" src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white'/></a>
 
 
 ### Features
