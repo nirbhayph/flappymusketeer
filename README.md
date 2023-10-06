@@ -17,7 +17,7 @@ Fun · Learn · Build · Challenge
 #### App Home
 <a href='https://linktree.com/flappymusketeer'><img height="40" width="150" alt='Get it on Google Play' src='https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white'/></a>
 
-#### Play Store Link
+#### Play Store Link (Coming Soon) [If you wish to test try the firebase link on Linktree]
 <a href='https://play.google.com/store/apps/details?id=com.nirbhay.flappymusketeer'><img height="40" width="170" src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/></a>
 
 #### Promo Video
